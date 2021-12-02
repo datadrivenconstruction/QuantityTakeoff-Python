@@ -66,3 +66,10 @@ python index.py
 
 Open  [http://0.0.0.0:3000/](http://0.0.0.0:3000/)  in your browser, you will see a live-updating dashboard.
 
+# opendatabim.io
+BIMJSON data – allows you to automate work with project data. In order to get automatic data from thousands of projects automatically, you need to build the pipeline once on the open tools.
+
+Get your data for free and easily.
+
+### Go to  BIM 2.0  go to  Open Source
+![enter image description here](https://opendatabim.io/wp-content/uploads/2021/10/BIM20.jpg)
