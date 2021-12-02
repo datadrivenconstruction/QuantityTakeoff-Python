@@ -60,11 +60,11 @@ and all of the required  `pip`  packages, will be installed, and the app will be
 Run this app locally by:
 
 ```
-python index.py
+python app.py
 
 ```
 
-Open  [http://0.0.0.0:3000/](http://0.0.0.0:3000/)  in your browser, you will see a live-updating dashboard.
+Open  [http://0.0.0.0:3000/](http://0.0.0.0:8050/)  in your browser, you will see a live-updating dashboard.
 
 
 # OpenDataBIM
