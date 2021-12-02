@@ -1,6 +1,6 @@
 ###
 # App Name:  Quantity take-offs (QTO) from Revit and IFC
-# Plugin URI: https://opendatabim.io/
+# App URI: https://opendatabim.io/
 # Description: Finding volumes for elements grouped according to conditions specified by the user
 # Author: Artem Boiko
 # Version:  0.3
