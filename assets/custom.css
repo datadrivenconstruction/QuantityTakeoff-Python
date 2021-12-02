@@ -1,0 +1,192 @@
+/*Fonts ––––––––––––––––––––––––––––––––––––––––––––––––––*/
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+body{
+  margin: 0px;
+  padding: 0px;
+  background-color: #fff;
+  font-family: 'Roboto';
+  color: #203cb3;
+}
+
+.study-browser-banner {
+  background: #2c5c97;
+  color: white;
+  padding-top: 12px;
+  padding-left: 48px;
+  padding-bottom: 7px;
+}
+
+.div-logo{
+  display: inline-block;
+  float: right;
+}
+
+.div-logo2{
+  display: inline-block;
+  float: left;
+}
+.logo{
+  height: 35px;
+  padding: 6px;
+  margin-top: 3px;
+}
+.logo2{
+  height: 55px;
+  padding: -6px;
+  margin-top: -3px;
+  margin-left: 40px;
+}
+
+.h2-title, .h2-title-mobile{
+  font-family: 'Roboto';
+  display: inline-block;
+  #letter-spacing: 1.3px;
+  font-weight: 500;
+  font-size: 25px;
+}
+
+.h2-title-mobile{
+  display: none;
+}
+
+h5{
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 16px;
+}
+
+h6{
+  font-family: 'Roboto';
+  font-weight: 300;
+  font-size: 15px;
+}
+
+
+
+.alert {
+  padding: 20px;
+  background-color: #f44336; 
+  color: white;
+}
+
+.bg-white{
+  background-color: white;
+  padding: 24px 32px;
+  #height: 500px;
+}
+
+.app-body{
+  margin-left: 4%;
+}
+
+.card{
+  padding:18px 24px 48px 24px;
+  margin-left: 4%;
+}
+
+.card-left{
+  padding:18px 24px 8px 24px;
+  margin-left: 0px;
+}
+
+.padding-top-bot{
+  padding-top: 12px;
+  padding-bottom: 18px;
+}
+
+.upload{
+  width: 100%;
+  line-height: 60px;
+  border-width: 5px;
+  border-style: dashed;
+  border-radius: 15px;
+  border-color: #2c5c97;
+  text-align: center;
+}
+
+.upload p, .upload a {
+  display: inline;
+}
+
+.Select-control{
+  border: 1px solid #999;
+  
+
+}
+
+@media only screen and (max-width: 320px){
+  .Select-menu-outer, .Select-value{
+    font-size: 10.5px;
+  }
+  .upload{
+    padding: 5px;
+  }
+}
+
+/* mobile */
+@media only screen and (max-width: 768px) {
+  .upload{
+    line-height: 60px;
+    border-width: 5px;
+    border-style: dashed;
+    border-radius: 15px;
+    border-color: #2c5c97;
+    text-align: center;
+    font-size: small;
+  }
+
+  .columns{
+    width: 100%;
+  }
+
+  .card, .card-left{
+    padding: 24px;  
+    margin: 0px;
+  } 
+
+  .bg-white{
+    height: auto;
+  }
+  
+  .study-browser-banner{
+    padding-left: 24px;
+  }
+
+  .logo{
+    height: 28px;
+    padding-left:0px;
+    padding-bottom:0px;
+  }
+
+  .div-logo{
+    float: left;
+    display: block;
+    width: 100%;
+  }
+
+  .h2-title{
+    display:none;
+  }
+
+  .h2-title-mobile{
+    display:block;
+    float:left;
+  }
+
+  .app-body{
+    margin-left: 0px;
+  }
+
+  .four.columns                   { width: 100%; }
+  .eight.columns                  { width: 100%; }
+
+  .columns{
+    text-align: center;
+  }
+
+  .user-control{
+    padding-top: 24px;
+    padding-bottom: 24px;
+  }
+}
