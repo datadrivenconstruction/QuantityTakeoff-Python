@@ -2,7 +2,6 @@
 # App Name:  Quantity take-offs (QTO) from Revit and IFC
 # App URI: https://opendatabim.io/
 # Description: Finding volumes for elements grouped according to conditions specified by the user
-# Author: Artem Boiko
 # Version:  0.3
 # OpenDataBIM
 # This program is free software: you can redistribute it and/or modify
