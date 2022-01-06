@@ -71,7 +71,7 @@ Open  [http://0.0.0.0:3000/](http://0.0.0.0:8050/)  in your browser, you will se
 https://opendatabim.io/
 
 
-BIMJSON is a format for transferring information to another party without the need for external guarantors or trusted ‘third parties’, enabling data to be exchanged within 3D-7D systems and between construction parties directly, bypassing any third-party companies controlling data storage and transfer. BIMJSON data – allows you to automate work with project data. In order to get automatic data from thousands of projects automatically, you need to build the pipeline once on the open tools.
+OpenDataBIM transferring information to another party without the need for external guarantors or trusted ‘third parties’, enabling data to be exchanged within 3D-7D systems and between construction parties directly, bypassing any third-party companies controlling data storage and transfer. OpenDataBIM allows to automate work with project data. In order to get automatic data from thousands of projects automatically, you need to build the pipeline once on the open tools.
 
 OpenDataBIM - You Way to Free Tools in Construction.
 
