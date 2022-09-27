@@ -75,5 +75,5 @@ OpenDataBIM transferring information to another party without the need for exter
 
 OpenDataBIM - You Way to Free Tools in Construction.
 
-### Go to  BIM 2.0  go to  Open Source
+### Go to  BIM 2.0  go to  Open Data
 ![enter image description here](https://opendatabim.io/wp-content/uploads/2021/10/BIM20.jpg)
