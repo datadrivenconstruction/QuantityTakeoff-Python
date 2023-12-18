@@ -1,9 +1,9 @@
 ###
 # App Name:  Quantity take-offs (QTO) from Revit and IFC
-# App URI: https://opendatabim.io/
+# App URI: https://DataDrivenConstruction.io/
 # Description: Finding volumes for elements grouped according to conditions specified by the user
 # Version:  0.3
-# OpenDataBIM
+# DataDrivenConstruction
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
 # the Free Software Foundation, either version 3 of the License, or
@@ -100,10 +100,10 @@ app.layout = html.Div(
                     html.Div(
                         className="div-logo2",
                         children=html.Img(
-                            className="logo2", src="https://opendatabim.com/wp-content/uploads/2021/11/VENDOR-FREE-5.png",
+                            className="logo2", src="https://DataDrivenConstruction.com/wp-content/uploads/2021/11/VENDOR-FREE-5.png",
                         ),
                     ),
-                    href="https://opendatabim.com/#", target="_blank",),
+                    href="https://DataDrivenConstruction.com/#", target="_blank",),
                 html.H2(className="h2-title", children="Quantity Takeoff OSS", style={
                     'margin-left': '45px',
                 }),
@@ -112,7 +112,7 @@ app.layout = html.Div(
                     children=[
                         'View on GitHub'
                     ],
-                    href="https://github.com/OpenDataBIM/QuantityTakeoff-Python",
+                    href="https://github.com/DataDrivenConstruction/QuantityTakeoff-Python",
                     style={'color': 'white',
                            'border': 'solid 1px white',
                            'text-decoration': 'none',
@@ -138,11 +138,11 @@ app.layout = html.Div(
                 html.Div(
                     className="div-logo",
                     children=html.Img(
-                        className="logo", src=("https://opendatabim.io/wp-content/uploads/2021/12/GitHub-Mark-Light-64px-1.png")
+                        className="logo", src=("https://DataDrivenConstruction.io/wp-content/uploads/2021/12/GitHub-Mark-Light-64px-1.png")
                     ),
                 ),
                 html.H2(className="h2-title-mobile",
-                        children="QTO opendatabim.com"),
+                        children="QTO DataDrivenConstruction.com"),
             ],
         ),
 
@@ -321,7 +321,7 @@ app.layout = html.Div(
                                      html.Div([
 
                                          html.Img(
-                                             src='https://opendatabim.com/wp-content/uploads/2021/11/qto_free_tool-3.png', style={"width": "100%", })
+                                             src='https://DataDrivenConstruction.com/wp-content/uploads/2021/11/qto_free_tool-3.png', style={"width": "100%", })
                                      ], style={"margin-top": "20px", },
                                      ),
 
@@ -329,7 +329,7 @@ app.layout = html.Div(
                                         #### Who Does Quantity Takeoffs?
                                         Simply put, all parties involved in the front-end of a construction project need to be involved in the quantity takeoff.
                                         A construction quantity takeoff is a term commonly used in the industry to describe one of its most essential functions: the process by which a cost estimator reviews a set of plans during preconstruction in order to “take off” measurements from these plans to forecast construction costs.
-                                        More about the project [OpenDataBIM](https://opendatabim.com/).
+                                        More about the project [DataDrivenConstruction](https://DataDrivenConstruction.com/).
                                         ''')
                                  ], style={'display': 'block', },
                                  ),
